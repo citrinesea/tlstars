@@ -63,7 +63,6 @@ overflow: auto;
 
 .summer-banner img{
 width: 100%;
-overflow: hidden;
 -webkit-mask-image: linear-gradient(to bottom, #ffffff 70%, transparent 100%);
 }
 
@@ -239,7 +238,7 @@ overflow: hidden;
   display: block;
   width: 48%;
   box-sizing: border-box;
-  margin:1%;
+  margin: 1%;
   overflow: hidden;
 }
 
