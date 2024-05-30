@@ -193,7 +193,7 @@ a:active{color: black; text-decoration: none;}
 
 .filterbox {
   width: 100%;
-  background: #020216;
+  background: #04362a;
   position: relative;
   padding: 15px 0;
   color: #fff;
@@ -210,13 +210,13 @@ a:active{color: black; text-decoration: none;}
 .filterbox li a {
   color: #ffffff;
   border-radius: 5px;
-  border-bottom: 1px solid #454545;
+  border-bottom: 1px solid #3a473e;
   margin: 0 5px;
 }
 
 .filterbox ul b {
   margin: 0 5px;
-  color: #ced4c8;
+  color: #b7ded1;
 }
 
 .grid{
