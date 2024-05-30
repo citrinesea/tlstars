@@ -290,10 +290,12 @@ color: #0f6270;
 }
 
 @media only screen and (max-width: 600px) {
-  .filterbox {width: 100%;}
+  .filterbox {width: 90%;}
+  .grid {width: 90%}
   .grid .item {width: 100%; display: inline-block; margin: 1% 0;}
   .preview-thumbnail{max-width: 100%;}
   .mainwrapper{max-width: 100%;}
+  .mainpage-box{max-width: 90%;}
   .summer-banner img{max-width: 100%;}
   }
 
