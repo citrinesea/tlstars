@@ -75,7 +75,7 @@ align-items: center;
 
 .mainpage-box{
 position: absolute;
-top: 10%;
+top: 40%;
 left: 0; 
 right: 0; 
 margin-left: auto; 
@@ -222,6 +222,7 @@ a:active{color: black; text-decoration: none;}
 
 .grid{
 background: #ffffff;
+width: 1fr 1fr 1fr;
 }
 
 #oshi{
@@ -237,7 +238,7 @@ overflow: hidden;
   
   display: block;
   padding: 10px;
-  width: 48%;
+  width: 30%;
   box-sizing: border-box;
   margin:1%;
   overflow: hidden;
