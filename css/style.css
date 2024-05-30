@@ -298,3 +298,9 @@ color: #0f6270;
   .mainwrapper{max-width: 100%;}
   .summer-banner img{max-width: 100%;}
   }
+
+  .socials {
+    color:rgb(193, 212, 98);
+  }
+
+  .socials a {color: #5d4784; text-decoration: none;}
