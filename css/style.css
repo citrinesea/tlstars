@@ -75,7 +75,7 @@ align-items: center;
 
 .mainpage-box{
 position: absolute;
-top: 50%;
+top: 10%;
 left: 0; 
 right: 0; 
 margin-left: auto; 
@@ -86,7 +86,7 @@ z-index: 1;
 
 background-color: rgb(255, 255, 255);
 color: #32403b;
-width: 90%;
+width: 93%;
 
 text-align: left;
 font-size: 18px;
