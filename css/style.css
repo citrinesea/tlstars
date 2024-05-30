@@ -193,7 +193,7 @@ a:active{color: black; text-decoration: none;}
 
 .filterbox {
   width: 100%;
-  background: #04362a;
+  background: #042836;
   position: relative;
   padding: 15px 0;
   color: #fff;
@@ -223,10 +223,6 @@ a:active{color: black; text-decoration: none;}
 background: #ffffff;
 }
 
-#oshi{
-background: white;
-}
-
 .quote-container{
 overflow: hidden; 
 }
@@ -240,6 +236,9 @@ overflow: hidden;
   box-sizing: border-box;
   margin: 1%;
   overflow: hidden;
+
+  height: 30rem;
+  overflow: auto;
 }
 
 .text {text-align:left;}
