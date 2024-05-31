@@ -291,7 +291,7 @@ color: #0f6270;
 
 .preview-thumbnail img{
   max-width: 240px;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 @media only screen and (max-width: 600px) {
